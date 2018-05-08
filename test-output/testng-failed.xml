@@ -6,29 +6,11 @@
       <class name="smokeTestIE.ValidateSmokeTest">
         <methods>
           <include name="ValidateStandardsCatalogDetail"/>
-          <include name="ValidatePDP"/>
-          <include name="ValidatePurchaseAnalysisPage"/>
-          <include name="ValidatePAEmail"/>
           <include name="ValidateSpecialOffer"/>
           <include name="closebrowser"/>
-          <include name="ValidateFavoriteIcon"/>
           <include name="ValidateAudioCablesCategory"/>
-          <include name="ValidateFooterLinks"/>
-          <include name="ValidateSearching"/>
-          <include name="ValidateordersPage"/>
-          <include name="ValidateFooterLogo"/>
-          <include name="ValidateCartPage"/>
-          <include name="ValidateStandardsCatalog"/>
-          <include name="ValidateResources"/>
-          <include name="ValidateHeaderLogo"/>
-          <include name="ValidateLogin"/>
-          <include name="ValidateRecentViewLink"/>
-          <include name="ValidateMyProfNavigation"/>
-          <include name="ValidateSavedReports"/>
           <include name="ValidateComparePage"/>
-          <include name="ValidateAllProduct"/>
-          <include name="ValidateCalendarPage"/>
-          <include name="ValidateTrackpage"/>
+          <include name="ValidateFooterLinks"/>
         </methods>
       </class> <!-- smokeTestIE.ValidateSmokeTest -->
     </classes>
