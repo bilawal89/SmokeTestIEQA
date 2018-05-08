@@ -1,0 +1,106 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 24, Errors: 0, Skipped: 0, Time elapsed: 489.351 s <<< FAILURE! - in TestSuite
+ValidateLogin(smokeTestIE.ValidateSmokeTest)  Time elapsed: 3.08 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+Failed to navigate to http://markitplace-qa.arpatech.com/auth/login-form. This usually means that a call to the COM method IWebBrowser2::Navigate2() failed.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:2827/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d4bb5b90-e083-40ba-9523-0d60e8deaf79
+	at smokeTestIE.ValidateSmokeTest.ValidateLogin(ValidateSmokeTest.java:53)
+
+ValidateFavoriteIcon(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.008 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateFavoriteIcon(ValidateSmokeTest.java:76)
+
+ValidateSearching(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateSearching(ValidateSmokeTest.java:138)
+
+ValidatePDP(smokeTestIE.ValidateSmokeTest)  Time elapsed: 5.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidatePDP(ValidateSmokeTest.java:333)
+
+ValidateRecentViewLink(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateRecentViewLink(ValidateSmokeTest.java:359)
+
+ValidateFooterLogo(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateFooterLogo(ValidateSmokeTest.java:380)
+
+ValidateMyProfNavigation(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateMyProfNavigation(ValidateSmokeTest.java:397)
+
+ValidateHeaderLogo(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.003 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateHeaderLogo(ValidateSmokeTest.java:441)
+
+ValidateStandardsCatalog(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateStandardsCatalog(ValidateSmokeTest.java:460)
+
+ValidateStandardsCatalogDetail(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateStandardsCatalogDetail(ValidateSmokeTest.java:479)
+
+ValidateAllProduct(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateAllProduct(ValidateSmokeTest.java:516)
+
+ValidateAudioCablesCategory(smokeTestIE.ValidateSmokeTest)  Time elapsed: 4.005 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateAudioCablesCategory(ValidateSmokeTest.java:540)
+
+ValidateResources(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateResources(ValidateSmokeTest.java:560)
+
+ValidateSpecialOffer(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateSpecialOffer(ValidateSmokeTest.java:579)
+
+ValidateCartPage(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateCartPage(ValidateSmokeTest.java:597)
+
+ValidateFooterLinks(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateFooterLinks(ValidateSmokeTest.java:746)
+
+ValidateTrackpage(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateTrackpage(ValidateSmokeTest.java:842)
+
+ValidateordersPage(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateordersPage(ValidateSmokeTest.java:864)
+
+ValidatePurchaseAnalysisPage(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidatePurchaseAnalysisPage(ValidateSmokeTest.java:889)
+
+ValidatePAEmail(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidatePAEmail(ValidateSmokeTest.java:912)
+
+ValidateCalendarPage(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateCalendarPage(ValidateSmokeTest.java:950)
+
+ValidateSavedReports(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateSavedReports(ValidateSmokeTest.java:1345)
+
+ValidateComparePage(smokeTestIE.ValidateSmokeTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.ValidateComparePage(ValidateSmokeTest.java:1365)
+
+closebrowser(smokeTestIE.ValidateSmokeTest)  Time elapsed: 20.793 s  <<< FAILURE!
+java.lang.NullPointerException
+	at smokeTestIE.ValidateSmokeTest.closebrowser(ValidateSmokeTest.java:1407)
+

@@ -1,0 +1,433 @@
+17:06:16.888 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:06:31.423 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+17:06:52.482 [main] ERROR resources.base - Favorite page not Open
+17:06:52.483 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:19256/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 9f300b02-933e-4877-892d-877eab7118aa
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+17:08:09.288 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:08:22.958 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+17:08:43.984 [main] ERROR resources.base - Favorite page not Open
+17:08:43.986 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:39819/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: cb94f21d-13fb-444a-8f46-7514f0d196c9
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+17:11:24.523 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:11:38.672 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+17:11:59.820 [main] ERROR resources.base - Favorite page not Open
+17:11:59.822 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:14551/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: efb4f41f-882a-469a-9c36-28d713e37954
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+06:02:32.376 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+06:03:10.905 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+06:03:31.966 [main] ERROR resources.base - Favorite page not Open
+06:03:31.966 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:3673/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: bd574e2e-9272-46d0-99cf-2689ff8f2aa7
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+06:12:21.607 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+06:13:05.872 [main] INFO  resources.base - user is searching printer using the search textbox
+06:13:05.920 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+06:13:06.115 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+06:13:27.529 [main] INFO  resources.base - User has clicked on Add to Cart on First Searched Product
+06:14:18.880 [main] INFO  resources.base - User has clicked on Add to Favorites on First Searched Product
+06:14:29.013 [main] ERROR resources.base - Product is not added to favorites
+06:14:29.013 [main] ERROR resources.base - Unable to find element with xpath == //*[@id='products-content']/div/div[2]/div/div/div[1]/h4
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:36404/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 1ea6a3eb-6eb4-46b8-a0a6-9340e13a55ec
+*** Element info: {Using=xpath, value=//*[@id='products-content']/div/div[2]/div/div/div[1]/h4}
+13:12:12.119 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+13:13:55.217 [main] INFO  resources.base - Recently Viewed Page is Opened
+13:13:59.921 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+13:13:59.947 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+13:14:07.933 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:14:07.948 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:14:19.338 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:14:23.978 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+13:14:23.995 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+13:14:25.244 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+13:14:30.279 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+13:15:44.932 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+13:15:56.182 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+13:16:17.416 [main] ERROR resources.base - Favorite page not Open
+13:16:17.416 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:14203/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: ea383b64-74a6-46a8-a9b9-2f3be4a625af
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+13:16:39.057 [main] INFO  resources.base - user is searching printer using the search textbox
+13:16:39.088 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+13:16:39.260 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+13:17:05.932 [main] INFO  resources.base - User has clicked on Add to Cart on First Searched Product
+13:17:10.557 [main] INFO  resources.base - Product 1 is successfully added to Cart
+13:17:11.695 [main] INFO  resources.base - User has closed the Add to Cart Modal after adding 1st product to cart
+13:17:17.916 [main] INFO  resources.base - User has clicked on Add to Favorites on First Searched Product
+13:17:28.182 [main] ERROR resources.base - Product is not added to favorites
+13:17:28.182 [main] ERROR resources.base - Unable to find element with xpath == //*[@id='products-content']/div/div[2]/div/div/div[1]/h4
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:14203/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: ea383b64-74a6-46a8-a9b9-2f3be4a625af
+*** Element info: {Using=xpath, value=//*[@id='products-content']/div/div[2]/div/div/div[1]/h4}
+13:18:00.354 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+13:18:26.057 [main] INFO  resources.base - Recently Viewed Page is Opened
+13:18:30.356 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+13:18:30.370 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+13:18:41.557 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:18:41.577 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:19:00.979 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:19:04.776 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+13:19:04.807 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+13:19:10.543 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+13:19:15.588 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+14:20:32.901 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+14:20:51.714 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+14:21:12.964 [main] ERROR resources.base - Favorite page not Open
+14:21:12.964 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:2443/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: d0b4fb15-f675-47ea-a4f1-e40ef7a435af
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+14:21:34.605 [main] INFO  resources.base - user is searching printer using the search textbox
+14:21:34.636 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+14:21:34.778 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+14:22:22.402 [main] INFO  resources.base - User has clicked on Add to Cart on First Searched Product
+14:23:29.136 [main] ERROR resources.base - User Is Not Able To reached the PDP Page
+14:23:29.136 [main] ERROR resources.base - expected [HP Officejet Pro 8710 All-in-One - Multifunction printer - MarkITplace] but found [Printers - MarkITplace]
+14:23:50.609 [main] ERROR resources.base - Recently Viewed page is not getting opened
+14:23:50.609 [main] ERROR resources.base - expected [Recently Viewed Products - MarkITplace] but found [Printers - MarkITplace]
+14:23:51.589 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+14:23:51.606 [main] ERROR resources.base - User not able to reach home clicking on the footer logo
+14:23:51.606 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Printers - MarkITplace]
+14:24:13.043 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+14:24:13.074 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+14:24:31.387 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+14:24:35.994 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+14:24:36.011 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+14:24:37.392 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+14:24:42.418 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+14:25:03.339 [main] INFO  resources.base - User has clicked on the 1st Standard Product appearing and reached the PDP Page
+14:25:27.074 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+14:25:37.121 [main] INFO  resources.base - User Have reached the All Product Page
+14:25:42.480 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+14:25:57.511 [main] ERROR resources.base - User have not reached the Audio Cable Category Page after clicking Audio Cable category from all product page
+14:25:57.511 [main] ERROR resources.base - expected [Audio Cables - MarkITplace] but found [All Products - MarkITplace]
+14:26:10.747 [main] INFO  resources.base - User has clicked on Resouces link from the header
+14:26:20.777 [main] INFO  resources.base - User Have reached the Resources Page
+14:26:29.823 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+14:26:29.839 [main] INFO  resources.base - User Have reached the Special Offer Page
+14:26:37.184 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+14:26:37.198 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+14:26:41.371 [main] INFO  resources.base - User has clicked on remove link for the 1st product
+14:26:46.512 [main] INFO  resources.base - User Have successfull removed the first product
+14:27:41.997 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+14:27:42.012 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+14:27:46.589 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+14:27:46.605 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+14:27:47.901 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+14:27:57.917 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+14:28:07.386 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+14:28:07.401 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+14:28:20.793 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+14:28:20.823 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+14:28:32.058 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+14:28:32.089 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+14:28:41.480 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+14:28:41.512 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+14:29:17.824 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+14:29:17.838 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+14:29:31.918 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+14:29:31.932 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+14:30:00.344 [main] INFO  resources.base - User has clicked on the Purchase Analysis button from the header of the page
+14:30:00.359 [main] INFO  resources.base - User have reached the Purchase Analysis page after clicking on the Purchase Analysis button from the header of the page
+14:30:01.808 [main] INFO  resources.base - User have clicked on email icon on purchase analysis Page
+14:30:02.444 [main] INFO  resources.base - User have entered the email on email field at purchase analysis Page
+14:30:03.965 [main] INFO  resources.base - User have click on Send button at email popup screen at purchase analysis Page
+14:30:12.603 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+14:30:22.636 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+14:31:31.761 [main] INFO  resources.base - User has clicked on the Assets report from Report tab
+14:31:31.777 [main] INFO  resources.base - User have reached the assets report after clicking on asset link from report tab
+14:31:51.605 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+14:32:06.636 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+14:32:07.031 [main] INFO  resources.base - user is searching printer using the search textbox
+14:37:33.371 [main] INFO  resources.base - User Have Successfully reached the Compare page
+14:40:03.829 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+14:40:17.818 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+14:40:39.136 [main] ERROR resources.base - Favorite page not Open
+14:40:39.136 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:4569/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: f232e020-2066-4da7-9f02-50889f3442c1
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+14:41:00.746 [main] INFO  resources.base - user is searching printer using the search textbox
+14:41:00.762 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+14:41:00.903 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+14:41:22.371 [main] INFO  resources.base - User has clicked on Add to Cart on First Searched Product
+14:42:37.074 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+14:42:48.574 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+14:42:48.605 [main] ERROR resources.base - User not able to reach home clicking on the footer logo
+14:42:48.605 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [HP Officejet Pro 8710 All-in-One - Multifunction printer - MarkITplace]
+14:43:07.183 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+14:43:20.355 [main] ERROR resources.base - User has got the issue in removing product from cart
+14:44:33.305 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+14:44:47.449 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+14:45:08.533 [main] ERROR resources.base - Favorite page not Open
+14:45:08.533 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:16395/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 4d01f3da-a536-47e5-ae85-51a747159cc7
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+14:45:30.093 [main] INFO  resources.base - user is searching printer using the search textbox
+14:45:30.114 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+14:45:30.266 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+14:45:51.730 [main] INFO  resources.base - User has clicked on Add to Cart on First Searched Product
+14:47:54.871 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+14:49:18.756 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+14:49:18.770 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+14:49:30.449 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+14:49:30.465 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+14:49:46.558 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+14:49:53.296 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+14:49:53.339 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+14:49:58.840 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+14:50:03.887 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+14:50:24.839 [main] INFO  resources.base - User has clicked on the 1st Standard Product appearing and reached the PDP Page
+14:50:52.980 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+14:51:03.027 [main] INFO  resources.base - User Have reached the All Product Page
+14:51:08.386 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+14:51:23.418 [main] ERROR resources.base - User have not reached the Audio Cable Category Page after clicking Audio Cable category from all product page
+14:51:23.418 [main] ERROR resources.base - expected [Audio Cables - MarkITplace] but found [All Products - MarkITplace]
+14:51:30.043 [main] INFO  resources.base - User has clicked on Resouces link from the header
+14:51:40.074 [main] INFO  resources.base - User Have reached the Resources Page
+14:51:47.902 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+14:51:47.918 [main] INFO  resources.base - User Have reached the Special Offer Page
+14:51:54.761 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+14:51:54.777 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+14:52:07.824 [main] ERROR resources.base - User has got the issue in removing product from cart
+15:12:30.840 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:12:42.069 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:13:03.402 [main] ERROR resources.base - Favorite page not Open
+15:13:03.402 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:39963/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 468af852-e102-4551-8644-94c8b0dd0fc6
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+15:13:25.074 [main] INFO  resources.base - user is searching printer using the search textbox
+15:13:25.105 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:13:25.262 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+15:13:46.730 [main] INFO  resources.base - User has clicked on Add to Cart on First Searched Product
+15:16:54.622 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+15:17:21.905 [main] INFO  resources.base - Recently Viewed Page is Opened
+15:17:37.559 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:17:37.575 [main] ERROR resources.base - User not able to reach home clicking on the footer logo
+15:17:37.575 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Can’t reach this page]
+15:19:32.653 [main] ERROR resources.base - User has got the issue in removing product from cart
+15:21:44.467 [main] INFO  resources.base - Compare Page not reached
+15:31:34.241 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:31:49.826 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:32:10.994 [main] ERROR resources.base - Favorite page not Open
+15:32:10.997 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:34351/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 21ad096e-cd67-4ee6-a27d-bd0ca7adc3f9
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+15:32:32.794 [main] INFO  resources.base - user is searching printer using the search textbox
+15:32:32.825 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:32:33.049 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+15:32:54.527 [main] INFO  resources.base - User has clicked on Add to Cart on First Searched Product
+15:33:39.810 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+15:34:06.403 [main] INFO  resources.base - Recently Viewed Page is Opened
+15:34:12.559 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:34:12.590 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:34:25.466 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:34:25.483 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:34:43.778 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:34:48.340 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:34:48.356 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+15:34:57.983 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+15:35:03.012 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+15:35:24.293 [main] INFO  resources.base - User has clicked on the 1st Standard Product appearing and reached the PDP Page
+15:35:53.043 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+15:36:03.076 [main] INFO  resources.base - User Have reached the All Product Page
+15:36:08.420 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+15:36:23.466 [main] ERROR resources.base - User have not reached the Audio Cable Category Page after clicking Audio Cable category from all product page
+15:36:23.467 [main] ERROR resources.base - expected [Audio Cables - MarkITplace] but found [All Products - MarkITplace]
+15:36:31.154 [main] INFO  resources.base - User has clicked on Resouces link from the header
+15:36:41.200 [main] INFO  resources.base - User Have reached the Resources Page
+15:36:42.279 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+15:36:42.292 [main] ERROR resources.base - User have not reached the Special Offer Page after clicking Special Offer link from the header
+15:36:42.292 [main] ERROR resources.base - expected [Special Offers - MarkITplace] but found [Resources - MarkITplace]
+15:36:44.669 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+15:36:44.715 [main] ERROR resources.base - User have not reached the Shopping Cart Page after clicking Cart Icon from the header
+15:36:44.715 [main] ERROR resources.base - expected [Cart - MarkITplace] but found [Resources - MarkITplace]
+15:36:57.731 [main] ERROR resources.base - User has got the issue in removing product from cart
+15:37:22.028 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:37:22.090 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+15:37:23.216 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:37:23.247 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:37:29.575 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+15:37:39.606 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+15:37:49.314 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+15:37:49.344 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+15:38:03.060 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+15:38:03.075 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+15:38:14.230 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+15:38:14.246 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+15:38:23.763 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+15:38:23.778 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+15:39:05.902 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+15:39:05.918 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+15:39:16.138 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+15:39:16.154 [main] ERROR resources.base - User have not reached the order page after clicking on the Order button from the header of the page
+15:39:16.154 [main] ERROR resources.base - expected [Orders - MarkITplace] but found [This site isn’t secure]
+10:39:02.000 [main] ERROR resources.base - User has got the issue in removing product from cart
+10:43:49.846 [main] ERROR resources.base - User Is Not Being Able To Login
+10:43:49.846 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Login - MarkITplace]
+10:49:05.453 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+10:54:37.872 [main] ERROR resources.base - User Is Not Being Able To Login
+10:54:37.876 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Login - MarkITplace]
+06:55:36.668 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+06:56:17.781 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+06:57:08.845 [main] ERROR resources.base - Favorite page not Open
+06:57:08.847 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:17869/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: 70e96dad-8804-41b4-ba1c-6b40b07783c0
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+06:58:30.461 [main] INFO  resources.base - user is searching printer using the search textbox
+06:58:30.476 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+06:58:30.676 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+06:59:25.339 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+07:00:22.958 [main] INFO  resources.base - Recently Viewed Page is Opened
+07:01:00.441 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+07:01:00.456 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+07:02:08.334 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+07:02:08.353 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+07:02:55.348 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+07:03:26.443 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+07:03:26.468 [main] ERROR resources.base - User not able to reach home clicking on the header logo
+07:03:26.468 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Shipping Address - MarkITplace]
+07:04:02.581 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+07:04:07.597 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+07:05:00.563 [main] INFO  resources.base - User has clicked on the 1st Standard Product appearing and reached the PDP Page
+07:06:54.059 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+07:07:04.074 [main] INFO  resources.base - User Have reached the All Product Page
+07:07:39.469 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+07:07:54.485 [main] ERROR resources.base - User have not reached the Audio Cable Category Page after clicking Audio Cable category from all product page
+07:07:54.486 [main] ERROR resources.base - expected [Audio Cables - MarkITplace] but found [All Products - MarkITplace]
+07:08:25.731 [main] INFO  resources.base - User has clicked on Resouces link from the header
+07:08:35.747 [main] INFO  resources.base - User Have reached the Resources Page
+07:09:14.040 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+07:09:14.054 [main] INFO  resources.base - User Have reached the Special Offer Page
+07:09:52.126 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+07:09:52.150 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+07:10:27.640 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+07:10:37.654 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+07:11:19.971 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+07:11:19.988 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+07:11:56.133 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+07:11:56.149 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+07:12:37.178 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+07:12:37.196 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+07:13:17.581 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+07:13:17.596 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+07:14:18.467 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+07:14:18.486 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+07:15:03.093 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+07:15:03.111 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+07:15:39.150 [main] INFO  resources.base - User has clicked on the Purchase Analysis button from the header of the page
+07:15:39.166 [main] ERROR resources.base - User have not reached the Purchase Analysis page after clicking on the Purchase Analysis button from the header of the page
+07:15:39.166 [main] ERROR resources.base - expected [Purchase Analysis - MarkITplace] but found [Orders - MarkITplace]
+07:16:15.285 [main] INFO  resources.base - User have clicked on email icon on purchase analysis Page
+07:16:46.041 [main] INFO  resources.base - User have entered the email on email field at purchase analysis Page
+07:17:17.177 [main] INFO  resources.base - User have click on Send button at email popup screen at purchase analysis Page
+07:18:59.845 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+07:19:09.863 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+07:19:41.011 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+07:19:56.029 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+07:20:26.480 [main] INFO  resources.base - user is searching printer using the search textbox
+07:22:32.564 [main] INFO  resources.base - User Have Successfully reached the Compare page
+11:00:57.047 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+11:01:21.703 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+11:01:42.406 [main] ERROR resources.base - Favorite page not Open
+11:01:42.406 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-GAH683G', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{proxy=Proxy(), acceptInsecureCerts=false, browserVersion=11, se:ieOptions={nativeEvents=true, browserAttachTimeout=0.0, ie.ensureCleanSession=false, elementScrollBehavior=0.0, enablePersistentHover=true, ie.browserCommandLineSwitches=, ie.forceCreateProcessApi=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:28596/, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000.0, ignoreProtectedModeSettings=false}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, platformName=windows, setWindowRect=true, platform=ANY}]
+Session ID: a3c07782-27a8-4e95-acd2-ab0bdf713a7c
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+11:02:03.390 [main] INFO  resources.base - user is searching printer using the search textbox
+11:02:03.390 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+11:02:03.703 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+11:02:30.703 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+11:02:57.437 [main] INFO  resources.base - Recently Viewed Page is Opened
+11:03:00.905 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+11:03:00.937 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+11:03:11.140 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+11:03:11.172 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+11:03:26.437 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+11:03:39.843 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+11:03:39.843 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+11:03:46.280 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+11:03:51.297 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+11:04:14.609 [main] INFO  resources.base - User has clicked on the 1st Standard Product appearing and reached the PDP Page
+11:04:53.219 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+11:05:03.250 [main] INFO  resources.base - User Have reached the All Product Page
+11:05:18.609 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+11:05:33.640 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+11:05:34.019 [main] INFO  resources.base - User has clicked on Resouces link from the header
+11:05:44.047 [main] INFO  resources.base - User Have reached the Resources Page
+11:06:05.484 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+11:06:05.484 [main] INFO  resources.base - User Have reached the Special Offer Page
+11:06:11.504 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+11:06:11.597 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+11:06:16.671 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+11:06:26.703 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+11:06:32.265 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+11:06:32.282 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page

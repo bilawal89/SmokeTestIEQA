@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.result,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.result td,table.result th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.result th {vertical-align:bottom}
+tr.param th {padding-left:1em;padding-right:1em}
+tr.param td {padding-left:.5em;padding-right:2em}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.result td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.result tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em">Default test</td><td class="numi">21</td><td class="numi">21</td><td class="numi">0</td><td class="numi_attn">2</td><td class="numi">457.6 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" class="passed" id="summary">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Start</th><th>Time<br/>(ms)</th></tr>
+<tr><th colspan="4">Default test &#8212; failed</th></tr>
+<tr class="failedodd"><td rowspan="2">smokeTestIE.ValidateSmokeTest</td><td><a href="#m1"><b>ValidateAudioCablesCategory</b>  </a></td><td class="numi">1</td><td>1525089554179</td><td class="numi">20499</td></tr><tr class="failedodd"><td><a href="#m2"><b>ValidateFooterLinks</b>  </a></td><td class="numi">1</td><td>1525089599288</td><td class="numi">11094</td></tr>
+<tr><th colspan="4">Default test &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="21">smokeTestIE.ValidateSmokeTest</td><td><a href="#m3"><b>ValidateAllProduct</b>  </a></td><td class="numi">1</td><td>1525089538773</td><td class="numi">15406</td></tr><tr class="passedodd"><td><a href="#m4"><b>ValidateCalendarPage</b>  </a></td><td class="numi">1</td><td>1525089671553</td><td class="numi">19892</td></tr><tr class="passedodd"><td><a href="#m5"><b>ValidateCartPage</b>  </a></td><td class="numi">1</td><td>1525089592710</td><td class="numi">6578</td></tr><tr class="passedodd"><td><a href="#m6"><b>ValidateComparePage</b>  </a></td><td class="numi">1</td><td>1525089714757</td><td class="numi">38047</td></tr><tr class="passedodd"><td><a href="#m7"><b>ValidateFavoriteIcon</b>  </a></td><td class="numi">1</td><td>1525089320381</td><td class="numi">32579</td></tr><tr class="passedodd"><td><a href="#m8"><b>ValidateFooterLogo</b>  </a></td><td class="numi">1</td><td>1525089434554</td><td class="numi">4843</td></tr><tr class="passedodd"><td><a href="#m9"><b>ValidateHeaderLogo</b>  </a></td><td class="numi">1</td><td>1525089468507</td><td class="numi">14375</td></tr><tr class="passedodd"><td><a href="#m10"><b>ValidateLogin</b>  </a></td><td class="numi">1</td><td>1525089295288</td><td class="numi">25093</td></tr><tr class="passedodd"><td><a href="#m11"><b>ValidateMyProfNavigation</b>  </a></td><td class="numi">1</td><td>1525089439397</td><td class="numi">29110</td></tr><tr class="passedodd"><td><a href="#m12"><b>ValidatePAEmail</b>  </a></td><td class="numi">1</td><td>1525089667209</td><td class="numi">4344</td></tr><tr class="passedodd"><td><a href="#m13"><b>ValidatePDP</b>  </a></td><td class="numi">1</td><td>1525089374866</td><td class="numi">27032</td></tr><tr class="passedodd"><td><a href="#m14"><b>ValidatePurchaseAnalysisPage</b>  </a></td><td class="numi">1</td><td>1525089656116</td><td class="numi">11093</td></tr><tr class="passedodd"><td><a href="#m15"><b>ValidateRecentViewLink</b>  </a></td><td class="numi">1</td><td>1525089401898</td><td class="numi">32656</td></tr><tr class="passedodd"><td><a href="#m16"><b>ValidateResources</b>  </a></td><td class="numi">1</td><td>1525089574678</td><td class="numi">11269</td></tr><tr class="passedodd"><td><a href="#m17"><b>ValidateSavedReports</b>  </a></td><td class="numi">1</td><td>1525089691445</td><td class="numi">23312</td></tr><tr class="passedodd"><td><a href="#m18"><b>ValidateSearching</b>  </a></td><td class="numi">1</td><td>1525089352960</td><td class="numi">21906</td></tr><tr class="passedodd"><td><a href="#m19"><b>ValidateSpecialOffer</b>  </a></td><td class="numi">1</td><td>1525089585947</td><td class="numi">6762</td></tr><tr class="passedodd"><td><a href="#m20"><b>ValidateStandardsCatalog</b>  </a></td><td class="numi">1</td><td>1525089482882</td><td class="numi">11781</td></tr><tr class="passedodd"><td><a href="#m21"><b>ValidateStandardsCatalogDetail</b>  </a></td><td class="numi">1</td><td>1525089494663</td><td class="numi">44110</td></tr><tr class="passedodd"><td><a href="#m22"><b>ValidateTrackpage</b>  </a></td><td class="numi">1</td><td>1525089610382</td><td class="numi">29984</td></tr><tr class="passedodd"><td><a href="#m23"><b>ValidateordersPage</b>  </a></td><td class="numi">1</td><td>1525089640381</td><td class="numi">15735</td></tr>
+</table>
+<h1>Default test</h1>
+<h2 id="m1">smokeTestIE.ValidateSmokeTest:ValidateAudioCablesCategory</h2>
+<div style="padding-left:3em">
+<p>expected [Audio Cables - MarkITplace] but found [All Products - MarkITplace]</p>
+org.testng.Assert.fail(Assert.java:94)
+<br/>at org.testng.Assert.failNotEquals(Assert.java:494)
+<br/>at org.testng.Assert.assertEquals(Assert.java:123)
+<br/>at org.testng.Assert.assertEquals(Assert.java:176)
+<br/>at org.testng.Assert.assertEquals(Assert.java:186)
+<br/>at smokeTestIE.ValidateSmokeTest.ValidateAudioCablesCategory(ValidateSmokeTest.java:554)
+<br/>25 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m2">smokeTestIE.ValidateSmokeTest:ValidateFooterLinks</h2>
+<div style="padding-left:3em">
+<p>expected [Standard Products - MarkITplace] but found [Cart - MarkITplace]</p>
+org.testng.Assert.fail(Assert.java:94)
+<br/>at org.testng.Assert.failNotEquals(Assert.java:494)
+<br/>at org.testng.Assert.assertEquals(Assert.java:123)
+<br/>at org.testng.Assert.assertEquals(Assert.java:176)
+<br/>at org.testng.Assert.assertEquals(Assert.java:186)
+<br/>at smokeTestIE.ValidateSmokeTest.ValidateFooterLinks(ValidateSmokeTest.java:762)
+<br/>25 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m3">smokeTestIE.ValidateSmokeTest:ValidateResources</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m4">smokeTestIE.ValidateSmokeTest:ValidateHeaderLogo</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m5">smokeTestIE.ValidateSmokeTest:ValidateStandardsCatalogDetail</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m6">smokeTestIE.ValidateSmokeTest:ValidateTrackpage</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m7">smokeTestIE.ValidateSmokeTest:ValidateordersPage</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m8">smokeTestIE.ValidateSmokeTest:ValidateFooterLogo</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m9">smokeTestIE.ValidateSmokeTest:ValidateSearching</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m10">smokeTestIE.ValidateSmokeTest:ValidateRecentViewLink</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m11">smokeTestIE.ValidateSmokeTest:ValidateMyProfNavigation</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m12">smokeTestIE.ValidateSmokeTest:ValidatePAEmail</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m13">smokeTestIE.ValidateSmokeTest:ValidateSpecialOffer</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m14">smokeTestIE.ValidateSmokeTest:ValidateCartPage</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m15">smokeTestIE.ValidateSmokeTest:ValidateStandardsCatalog</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m16">smokeTestIE.ValidateSmokeTest:ValidateCalendarPage</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m17">smokeTestIE.ValidateSmokeTest:ValidatePDP</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m18">smokeTestIE.ValidateSmokeTest:ValidatePurchaseAnalysisPage</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m19">smokeTestIE.ValidateSmokeTest:ValidateSavedReports</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m20">smokeTestIE.ValidateSmokeTest:ValidateLogin</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m21">smokeTestIE.ValidateSmokeTest:ValidateAllProduct</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m22">smokeTestIE.ValidateSmokeTest:ValidateFavoriteIcon</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m23">smokeTestIE.ValidateSmokeTest:ValidateComparePage</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>
