@@ -500,6 +500,8 @@ Srp.getProduct4Cart().click();
 			Log.error("No standard Product found to click");
 			Log.error(e.getMessage());
 		}
+		
+		/*15-5-2018
 
 		wt.until(ExpectedConditions.elementToBeClickable(St.getCartBtnNew()));
 		St.getCartBtnNew().click();
@@ -508,6 +510,8 @@ Srp.getProduct4Cart().click();
 		St.getCloseicon2().click();
 		Thread.sleep(10000);
 		Assert.assertEquals(title, exp);
+		
+		15-5-2018*/
 	}
 
 	@Test(priority = 12)
