@@ -315,3 +315,63 @@ Session ID: 966ad613-c04f-4fc0-b630-a3f76e4e90aa
 09:27:18.633 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
 09:27:20.055 [main] INFO  resources.base - user is searching printer using the search textbox
 09:28:05.426 [main] INFO  resources.base - User Have Successfully reached the Compare page
+09:35:25.404 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+09:35:38.981 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+09:35:59.716 [main] ERROR resources.base - Favorite page not Open
+09:35:59.716 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20215/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9233e52a-34b0-49ba-b439-e6c299393fb9
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+09:36:21.015 [main] INFO  resources.base - user is searching printer using the search textbox
+09:36:21.032 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+09:36:21.456 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+09:36:38.903 [main] ERROR resources.base - User Is Not Able To reached the PDP Page
+09:36:38.903 [main] ERROR resources.base - expected [HP Officejet Pro 8710 All-in-One - Multifunction printer - MarkITplace] but found [Printers - MarkITplace]
+09:37:07.529 [main] INFO  resources.base - Recently Viewed Page is Opened
+09:37:11.538 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+09:37:11.552 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+09:37:23.654 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:37:23.684 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:37:38.558 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:37:48.950 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+09:37:48.966 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+09:37:54.607 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+09:37:59.653 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+09:38:21.528 [main] INFO  resources.base - User has clicked on the 1st Standard Product appearing and reached the PDP Page
+09:38:25.764 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+09:38:35.820 [main] INFO  resources.base - User Have reached the All Product Page
+09:38:44.325 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+09:38:59.357 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+09:39:06.399 [main] INFO  resources.base - User has clicked on Resouces link from the header
+09:39:16.420 [main] INFO  resources.base - User Have reached the Resources Page
+09:39:24.106 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+09:39:24.122 [main] INFO  resources.base - User Have reached the Special Offer Page
+09:39:28.583 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+09:39:28.596 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+09:39:33.717 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+09:39:43.748 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+09:39:53.575 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+09:39:53.622 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+09:40:06.014 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+09:40:06.060 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+09:40:12.288 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+09:40:12.325 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+09:40:44.747 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+09:40:44.763 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+09:40:55.107 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+09:40:55.122 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+09:41:17.441 [main] INFO  resources.base - User has clicked on the Purchase Analysis button from the header of the page
+09:41:17.508 [main] INFO  resources.base - User have reached the Purchase Analysis page after clicking on the Purchase Analysis button from the header of the page
+09:41:18.869 [main] INFO  resources.base - User have clicked on email icon on purchase analysis Page
+09:41:19.724 [main] INFO  resources.base - User have entered the email on email field at purchase analysis Page
+09:41:21.232 [main] INFO  resources.base - User have click on Send button at email popup screen at purchase analysis Page
+09:41:32.568 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+09:41:42.606 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+09:41:50.010 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+09:42:05.029 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+09:42:05.763 [main] INFO  resources.base - user is searching printer using the search textbox
+09:42:41.607 [main] INFO  resources.base - User Have Successfully reached the Compare page
