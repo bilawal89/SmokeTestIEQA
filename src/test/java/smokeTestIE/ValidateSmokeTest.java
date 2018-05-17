@@ -653,7 +653,7 @@ Srp.getProduct4Cart().click();
 		}
 
 
-	@Test(priority = 18,enabled=false)
+	@Test(priority = 18)
 	public void ValidateCheckoutProcess() throws InterruptedException {
 		WebDriverWait wait = new WebDriverWait(driver, 100);
 		Random random = new Random();
@@ -708,7 +708,7 @@ Srp.getProduct4Cart().click();
 		// wait.until(ExpectedConditions.visibilityOf(Srp.getProduct1Cart()));
 	}
 
-	@Test(priority = 19,enabled=false)
+	@Test(priority = 19)
 
 	public void ValidateCheckoutHeaderLogo() throws InterruptedException {
 		Header hd = new Header(driver);
