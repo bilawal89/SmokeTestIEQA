@@ -30,6 +30,7 @@ import pageObjects.Footer;
 import pageObjects.Header;
 import pageObjects.HomePage;
 import pageObjects.MyProfilePage;
+import pageObjects.PDP;
 import pageObjects.PurchaseAnalysis;
 import pageObjects.SearchResultPage;
 import pageObjects.StandardsCatalog;
@@ -327,7 +328,7 @@ Srp.getProduct4Cart().click();
 	
 	@Test(priority = 5)
 
-	public void ValidatePDP() throws InterruptedException {
+	public void ValidatePDPandAddToCart() throws InterruptedException {
 		Thread.sleep(5000);
 		Srp = new SearchResultPage(driver);
 		WebDriverWait wait = new WebDriverWait(driver, 30);
@@ -350,7 +351,10 @@ Srp.getProduct4Cart().click();
 			Log.error(e.getMessage());
 		}
 		Assert.assertEquals(title5, expected1);
-
+		PDP pp = new PDP(driver);
+		pp.getCartbtn().click();
+		wait.until(ExpectedConditions.visibilityOf(pp.getCartClose()));
+		pp.getCartClose().click();
 	}
 
 	@Test(priority = 6)
@@ -578,9 +582,10 @@ Srp.getProduct4Cart().click();
 	}
 
 	@Test(priority = 15)
-	public void ValidateSpecialOffer() {
+	public void ValidateSpecialOffer() throws InterruptedException {
 		Header Head = new Header(driver);
 		Head.getSpecialOffers().click();
+		Thread.sleep(10000);
 		Log.info("User has clicked on Special Offer Link from the header");
 		String title5 = driver.getTitle();
 		String expectedTitle = "Special Offers - MarkITplace";
@@ -748,6 +753,7 @@ Srp.getProduct4Cart().click();
 	public void ValidateFooterLinks() throws InterruptedException {
 		Footer ft = new Footer(driver);
 		ft.getFStandCatalogFF().click();
+		Thread.sleep(10000);
 		Log.info("User has clicked on the Standard Catalog Link from the footer of the page");
 		Thread.sleep(10000);
 		String title1 = driver.getTitle();
@@ -866,7 +872,7 @@ Srp.getProduct4Cart().click();
 	public void ValidateordersPage() throws InterruptedException {
 		Header head = new Header(driver);
 		head.getOrderBtn().click();
-		Thread.sleep(5000);
+		Thread.sleep(10000);
 		Log.info("User has clicked on the order button from the header of the page");
 		String title5 = driver.getTitle();
 		String exp5 = "Orders - MarkITplace";
@@ -1363,7 +1369,7 @@ Srp.getProduct4Cart().click();
 		Assert.assertEquals(title5, exp5);
 	}
 	
-	@Test(priority=30)
+	@Test(priority=30,enabled=false)
 	public void ValidateComparePage() throws InterruptedException
 	{
 		WebDriverWait wt = new WebDriverWait(driver,20);
