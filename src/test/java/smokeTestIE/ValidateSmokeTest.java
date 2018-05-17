@@ -708,7 +708,7 @@ Srp.getProduct4Cart().click();
 		// wait.until(ExpectedConditions.visibilityOf(Srp.getProduct1Cart()));
 	}
 
-	@Test(priority = 19)
+	@Test(priority = 19,enabled=false)
 
 	public void ValidateCheckoutHeaderLogo() throws InterruptedException {
 		Header hd = new Header(driver);
