@@ -547,9 +547,10 @@ Srp.getProduct4Cart().click();
 		Thread.sleep(4000);
 		AP.getAudioCablesFF().click();
 		Log.info("User has clicked on Audio Cables Category From All Products Page");
+		Thread.sleep(15000);
 		String title5 = driver.getTitle();
 		String expectedTitle = "Audio Cables - MarkITplace";
-		Thread.sleep(15000);
+		
 		try {
 			Assert.assertEquals(title5, expectedTitle);
 			Log.info("User Have reached the Audio Cables Category Page");
