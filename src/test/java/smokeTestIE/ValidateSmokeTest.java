@@ -773,7 +773,7 @@ Srp.getProduct4Cart().click();
 		Assert.assertEquals(title1, exp1);
 
 		ft.getFAllPrdctFF().click();
-		Thread.sleep(5000);
+		Thread.sleep(15000);
 		Log.info("User has clicked on the All product Link from the footer of the page");
 		String title2 = driver.getTitle();
 		String exp2 = "All Products - MarkITplace";
@@ -791,7 +791,7 @@ Srp.getProduct4Cart().click();
 		Assert.assertEquals(title2, exp2);
 
 		ft.getFResourcesFF().click();
-		Thread.sleep(5000);
+		Thread.sleep(10000);
 		Log.info("User has clicked on the resources  Link from the footer of the page");
 		String title3 = driver.getTitle();
 		String exp3 = "Resources - MarkITplace";
@@ -809,7 +809,7 @@ Srp.getProduct4Cart().click();
 		Assert.assertEquals(title3, exp3);
 
 		ft.getFSpecialOffersFF().click();
-		Thread.sleep(5000);
+		Thread.sleep(10000);
 		Log.info("User has clicked on the Special offer Link from the footer of the page");
 		String title4 = driver.getTitle();
 		String exp4 = "Special Offers - MarkITplace";
@@ -827,7 +827,7 @@ Srp.getProduct4Cart().click();
 		Assert.assertEquals(title4, exp4);
 
 		ft.getFFavoritesFF().click();
-		Thread.sleep(5000);
+		Thread.sleep(10000);
 		Log.info("User has clicked on the Special offer Link from the footer of the page");
 		String title5 = driver.getTitle();
 		String exp5 = "Favorites - MarkITplace";
@@ -873,7 +873,7 @@ Srp.getProduct4Cart().click();
 	public void ValidateordersPage() throws InterruptedException {
 		Header head = new Header(driver);
 		head.getOrderBtn().click();
-		Thread.sleep(10000);
+		Thread.sleep(15000);
 		Log.info("User has clicked on the order button from the header of the page");
 		String title5 = driver.getTitle();
 		String exp5 = "Orders - MarkITplace";
@@ -898,7 +898,7 @@ Srp.getProduct4Cart().click();
 		// WebDriverWait wait = new WebDriverWait(driver,10000);
 		// wait.until(ExpectedConditions.visibilityOf(head.getPAnalysisBtn()));
 		head.getPAnalysisBtn().click();
-		Thread.sleep(10000);
+		Thread.sleep(15000);
 		Log.info("User has clicked on the Purchase Analysis button from the header of the page");
 		String title5 = driver.getTitle();
 		String exp5 = "Purchase Analysis - MarkITplace";
@@ -920,7 +920,7 @@ Srp.getProduct4Cart().click();
 
 	public void ValidatePAEmail() throws InterruptedException {
 		PurchaseAnalysis PA = new PurchaseAnalysis(driver);
-		WebDriverWait wait = new WebDriverWait(driver, 1000000);
+		WebDriverWait wait = new WebDriverWait(driver, 60);
 		wait.until(ExpectedConditions.visibilityOf(PA.getEmail()));
 		PA.getEmail().click();
 		Log.info("User have clicked on email icon on purchase analysis Page");
@@ -979,6 +979,7 @@ Srp.getProduct4Cart().click();
 			Log.error(e.getMessage());
 		}
 		Assert.assertEquals(title5, exp5);
+		Thread.sleep(7000);
 	}
 
 	@Test(priority = 27,enabled=false)
@@ -1355,7 +1356,7 @@ Srp.getProduct4Cart().click();
 		TrackPage TP = new TrackPage(driver);
 		TP.getSavedReports().click();
 		Log.info("User has clicked on the Saved Report icon from the header of the page");
-		Thread.sleep(15000);
+		Thread.sleep(20000);
 		String title5 = driver.getTitle();
 		String exp5 = "Saved Reports - MarkITplace";
 		try {

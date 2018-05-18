@@ -5,12 +5,8 @@
     <classes>
       <class name="smokeTestIE.ValidateSmokeTest">
         <methods>
-          <include name="ValidateStandardsCatalogDetail"/>
-          <include name="ValidateSpecialOffer"/>
           <include name="closebrowser"/>
-          <include name="ValidateAudioCablesCategory"/>
-          <include name="ValidateComparePage"/>
-          <include name="ValidateFooterLinks"/>
+          <include name="ValidateSavedReports"/>
         </methods>
       </class> <!-- smokeTestIE.ValidateSmokeTest -->
     </classes>
