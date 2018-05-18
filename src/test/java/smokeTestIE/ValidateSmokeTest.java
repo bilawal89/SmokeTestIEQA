@@ -331,7 +331,7 @@ Srp.getProduct4Cart().click();
 	public void ValidatePDPandAddToCart() throws InterruptedException {
 		Thread.sleep(5000);
 		Srp = new SearchResultPage(driver);
-		WebDriverWait wait = new WebDriverWait(driver, 30);
+		WebDriverWait wait = new WebDriverWait(driver, 60);
 		// --wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.xpath("//*[@id='add_to_cart_10886231']"))));
 		wait.until(ExpectedConditions.visibilityOf(Srp.getProduct1Name()));
 
@@ -352,6 +352,7 @@ Srp.getProduct4Cart().click();
 		}
 		Assert.assertEquals(title5, expected1);
 		PDP pp = new PDP(driver);
+		wait.until(ExpectedConditions.visibilityOf(pp.getCartbtn()));
 		pp.getCartbtn().click();
 		wait.until(ExpectedConditions.visibilityOf(pp.getCartClose()));
 		pp.getCartClose().click();
@@ -378,10 +379,11 @@ Srp.getProduct4Cart().click();
 
 	@Test(priority = 7)
 
-	public void ValidateFooterLogo() {
+	public void ValidateFooterLogo() throws InterruptedException {
 		Footer ft = new Footer(driver);
 		// hd.getHeadLogo().click();
 		ft.getFootLogo().click();
+		Thread.sleep(10000);
 		Log.info("User has clicked the Logo from the footer of the page");
 		String title5 = driver.getTitle();
 		try {
@@ -749,7 +751,7 @@ Srp.getProduct4Cart().click();
 		Assert.assertEquals(title5, "Shop - MarkITplace");
 	}
 
-	@Test(priority = 21)
+	@Test(priority = 21,enabled=false)
 
 	public void ValidateFooterLinks() throws InterruptedException {
 		Footer ft = new Footer(driver);
