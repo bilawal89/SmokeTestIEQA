@@ -191,3 +191,30 @@ Session ID: 8b3d3e86-bfc7-4130-9225-c2aacd7d7976
 06:31:29.187 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
 06:31:36.572 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
 06:31:56.586 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+10:13:29.664 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+10:13:47.931 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+10:14:42.805 [main] INFO  resources.base - user is searching printer using the search textbox
+10:14:42.821 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+10:14:43.045 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+10:15:05.295 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+10:15:39.931 [main] INFO  resources.base - Recently Viewed Page is Opened
+10:15:53.571 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+10:15:53.586 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+10:16:05.661 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+10:16:05.677 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+10:16:21.079 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+10:16:34.588 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+10:16:34.602 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+10:16:42.337 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+10:16:47.371 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+10:17:09.243 [main] INFO  resources.base - User has clicked on the 1st Standard Product appearing and reached the PDP Page
+10:17:15.836 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+10:17:25.850 [main] INFO  resources.base - User Have reached the All Product Page
+10:17:34.993 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+10:17:50.013 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+10:18:03.999 [main] INFO  resources.base - User has clicked on Resouces link from the header
+10:18:14.012 [main] INFO  resources.base - User Have reached the Resources Page
+10:18:32.532 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+10:18:32.546 [main] INFO  resources.base - User Have reached the Special Offer Page
+10:18:39.721 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+10:18:39.755 [main] INFO  resources.base - User Have reached the Shopping Cart Page
