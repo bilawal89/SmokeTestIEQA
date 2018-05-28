@@ -218,3 +218,64 @@ Session ID: 8b3d3e86-bfc7-4130-9225-c2aacd7d7976
 10:18:32.546 [main] INFO  resources.base - User Have reached the Special Offer Page
 10:18:39.721 [main] INFO  resources.base - User has clicked on Cart Icon from the header
 10:18:39.755 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+14:10:14.461 [main] ERROR resources.base - User Is Not Being Able To Login
+14:10:14.462 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Oops! something went wrong. - MarkITplace]
+14:11:15.084 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+14:11:15.098 [main] ERROR resources.base - User not able to reach home clicking on the footer logo
+14:11:15.098 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [This site isn’t secure]
+05:59:55.995 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+06:00:13.856 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+06:00:34.417 [main] ERROR resources.base - Favorite page not Open
+06:00:34.417 [main] ERROR resources.base - Unable to find element with xpath == (//a[@class='btn'])[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:25613/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 978cf85b-fe7e-43d1-a6ba-21ff386bb91b
+*** Element info: {Using=xpath, value=(//a[@class='btn'])[2]}
+06:00:55.714 [main] INFO  resources.base - user is searching printer using the search textbox
+06:00:55.747 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+06:00:56.089 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+06:01:19.417 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+06:01:55.511 [main] INFO  resources.base - Recently Viewed Page is Opened
+06:02:09.136 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+06:02:09.152 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+06:02:15.870 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+06:02:15.886 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+06:02:34.855 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+06:02:45.308 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+06:02:45.340 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+06:02:51.683 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+06:02:56.699 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+06:03:18.855 [main] INFO  resources.base - User has clicked on the 1st Standard Product appearing and reached the PDP Page
+06:03:28.652 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+06:03:38.698 [main] INFO  resources.base - User Have reached the All Product Page
+06:03:47.874 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+06:04:02.904 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+06:04:18.937 [main] INFO  resources.base - User has clicked on Resouces link from the header
+06:04:28.980 [main] INFO  resources.base - User Have reached the Resources Page
+06:04:47.495 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+06:04:47.511 [main] INFO  resources.base - User Have reached the Special Offer Page
+06:04:54.480 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+06:04:54.511 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+06:05:55.854 [main] INFO  resources.base - Element is not displayed
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:25613/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 978cf85b-fe7e-43d1-a6ba-21ff386bb91b
+06:06:00.870 [main] INFO  resources.base - User Have reached the order confirmation page after placing the order
+06:06:36.168 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+06:06:36.183 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+06:06:58.417 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+06:06:58.432 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+06:07:23.480 [main] INFO  resources.base - User has clicked on the Purchase Analysis button from the header of the page
+06:07:23.496 [main] INFO  resources.base - User have reached the Purchase Analysis page after clicking on the Purchase Analysis button from the header of the page
+06:07:24.370 [main] INFO  resources.base - User have clicked on email icon on purchase analysis Page
+06:07:25.113 [main] INFO  resources.base - User have entered the email on email field at purchase analysis Page
+06:07:26.261 [main] INFO  resources.base - User have click on Send button at email popup screen at purchase analysis Page
+06:07:32.550 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+06:07:42.574 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+06:07:56.340 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+06:08:16.386 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
