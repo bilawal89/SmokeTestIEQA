@@ -279,3 +279,51 @@ Session ID: 978cf85b-fe7e-43d1-a6ba-21ff386bb91b
 06:07:42.574 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
 06:07:56.340 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
 06:08:16.386 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+09:22:39.795 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+09:22:58.083 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+09:23:53.173 [main] INFO  resources.base - user is searching printer using the search textbox
+09:23:53.207 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+09:23:53.464 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+09:24:24.384 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+09:25:01.182 [main] INFO  resources.base - Recently Viewed Page is Opened
+09:25:19.283 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+09:25:19.297 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+09:25:36.920 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:25:36.936 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:25:54.173 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:26:10.639 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+09:26:10.652 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+09:26:18.451 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+09:26:23.469 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+09:26:46.285 [main] INFO  resources.base - User has clicked on the 1st Standard Product appearing and reached the PDP Page
+09:26:54.388 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+09:27:04.412 [main] INFO  resources.base - User Have reached the All Product Page
+09:27:16.763 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+09:27:31.777 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+09:27:52.150 [main] INFO  resources.base - User has clicked on Resouces link from the header
+09:28:02.168 [main] INFO  resources.base - User Have reached the Resources Page
+09:28:21.654 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+09:28:21.671 [main] INFO  resources.base - User Have reached the Special Offer Page
+09:28:29.826 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+09:28:29.841 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+09:30:08.654 [main] INFO  resources.base - Element is not displayed
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '10.0.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:25578/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: e09f5934-c1dc-4ca4-aabd-b08f274cde56
+09:30:13.686 [main] INFO  resources.base - User Have reached the order confirmation page after placing the order
+09:30:59.357 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+09:30:59.373 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+09:31:25.513 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+09:31:25.529 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+09:31:52.907 [main] INFO  resources.base - User has clicked on the Purchase Analysis button from the header of the page
+09:31:52.920 [main] INFO  resources.base - User have reached the Purchase Analysis page after clicking on the Purchase Analysis button from the header of the page
+09:31:53.911 [main] INFO  resources.base - User have clicked on email icon on purchase analysis Page
+09:31:54.564 [main] INFO  resources.base - User have entered the email on email field at purchase analysis Page
+09:31:55.660 [main] INFO  resources.base - User have click on Send button at email popup screen at purchase analysis Page
+09:32:02.031 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+09:32:12.058 [main] ERROR resources.base - User have not reached the Calendar page after clicking on the Calendar button from the header of the page
+09:32:12.058 [main] ERROR resources.base - expected [Calendar Monthly View - MarkITplace] but found [Track Dashboard - MarkITplace]
+09:32:12.672 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+09:32:32.702 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
