@@ -56,7 +56,8 @@ import pageObjects.LoginPage;
 		{
 			//InternetExplorerOptions options = new InternetExplorerOptions();
 			DesiredCapabilities capabilities = DesiredCapabilities.internetExplorer();
-			capabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS, true);
+			//capabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS, true);
+			capabilities.setCapability("initialBrowserUrl", "https://my-page:9443");
 			System.setProperty("webdriver.ie.driver", "C:\\driver\\IEDriverServer.exe");
 			
 		

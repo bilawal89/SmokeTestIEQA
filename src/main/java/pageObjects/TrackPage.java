@@ -15,6 +15,8 @@ public class TrackPage {
 		// TODO Auto-generated constructor stub
 		this.driver=driver;
 	}
+	
+
 	By CalendarDiv = By.xpath("//*[@id='track-dashboard']/div[1]/div/div[1]/div[3]/div");
 	By QuickFinder= By.xpath("//input[@class='quick-search']");
 	By CalendarBtn=By.linkText("Calendar");
@@ -28,6 +30,8 @@ public class TrackPage {
 	//Select Se3 = new Select(driver.findElement(By.xpath("//select[@class='grid-item-control-select']")));
 	By AllOrdersLink=By.linkText("See all orders");
 	By SeeAllQuotes=By.linkText("See all quotes");
+	
+	
 	
 	public WebElement getQuickFinder()
 	{

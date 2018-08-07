@@ -13,9 +13,6 @@ public class SearchResultPage {
 		this.driver=driver;
 	}
 	
-	By Compare1 = By.xpath("(//div[@class='control__indicator'])[1]");
-	By Compare2 = By.xpath("(//div[@class='control__indicator'])[2]");
-	By CompareBtn=By.linkText("Compare");
 	By Products = By.xpath("//div[@class='product-list-grid clearfix print-product-list grid']");
 	By Product4Cart=By.xpath("//a[@id='add_to_cart_11273675']");
 	By fav1Product = By.xpath("//*[@id='fav_btn_10886231']");
@@ -31,8 +28,16 @@ public class SearchResultPage {
 	By AddToCartCLose = By.xpath("//button[@class='mfp-close']");
 	By favClose= By.xpath("//div[@class='modal-footer']//button[@class='btn btn-default' and text()='Close'][1]");
 	By prod1name=By.xpath("//h2[@id='product-name-10886231']");
+	By Compare1 = By.xpath("(//div[@class='control__indicator'])[1]");
+	By Compare2 = By.xpath("(//div[@class='control__indicator'])[2]");
+	By Compare5 = By.xpath("(//div[@class='control__indicator'])[5]");
+	By CompareBtn=By.linkText("Compare");
 	
-
+	
+	public WebElement getCompare5()
+	{
+		return driver.findElement(Compare5);
+	}
 	public WebElement getCompare1()
 	{
 		return driver.findElement(Compare1);
@@ -47,7 +52,6 @@ public class SearchResultPage {
 	{
 		return driver.findElement(CompareBtn);
 	}
-	
 	
 	public WebElement getProduct4Cart()
 	{
